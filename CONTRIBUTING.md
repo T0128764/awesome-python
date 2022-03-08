@@ -1,5 +1,7 @@
 # Contributing
 
+Bitte an die Kollegin senden!
+
 Your contributions are always welcome!
 
 ## Guidelines
